@@ -1,0 +1,6 @@
+G:\___git projects___\Discrete Mathematics\Rosen\Sets Functions Sequences Sums Matrices\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+G:\___git projects___\Discrete Mathematics\Rosen\Sets Functions Sequences Sums Matrices\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+G:\___git projects___\Discrete Mathematics\Rosen\Sets Functions Sequences Sums Matrices\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+G:\___git projects___\Discrete Mathematics\Rosen\Sets Functions Sequences Sums Matrices\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+G:\___git projects___\Discrete Mathematics\Rosen\Sets Functions Sequences Sums Matrices\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+G:\___git projects___\Discrete Mathematics\Rosen\Sets Functions Sequences Sums Matrices\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
